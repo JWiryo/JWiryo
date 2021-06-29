@@ -41,7 +41,7 @@ Together with a friend of mine, we publish our thoughts on recent news, technolo
 Kohi Chats
 </h2>
 <p align="center">
-<a href= "https://open.spotify.com/show/2455WOxVEpiqW23u3RqIJF?si=n6o4UuCeTI6SQXEfzUWMnw"><img src="./Images/Kohi_Chats_Logo.png"></a>
+<a href= "https://open.spotify.com/show/2455WOxVEpiqW23u3RqIJF?si=n6o4UuCeTI6SQXEfzUWMnw"><img src="./Images/Kohi_chats_Logo.png"></a>
 </p>
 
 
