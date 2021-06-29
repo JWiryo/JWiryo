@@ -36,11 +36,13 @@ public class James {
 * ✍🏻:   You can find more details of my work and interests on my personal website [Personal Website](https://www.jwiryo.com/)
 
 ##### Podcast:
-Together with a friend of mine, we publish our thoughts on recent news, technology and investments via our podcast.
+Together with a friend of mine, we publish our thoughts on recent news, technology and investments via our podcast. (also available in Apple and Google Podcast)
 <h2 align="center">
 Kohi Chats
 </h2>
-<iframe src="https://open.spotify.com/embed-podcast/show/2455WOxVEpiqW23u3RqIJF" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p align="center">
+<a href= "https://open.spotify.com/show/2455WOxVEpiqW23u3RqIJF?si=n6o4UuCeTI6SQXEfzUWMnw"><img src="./Images/Kohi_Chats_Logo.png"></a>
+</p>
 
 
 ### Connect with Me
