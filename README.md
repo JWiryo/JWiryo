@@ -32,7 +32,7 @@ public class James {
 * 🎓:   Master of Computing from National University of Singapore (GPA 4.6 / 5.0)
 * 🙋‍♂️:   Interested in Backend Roles focusing on Scalable and Distributed Systems (Have managed traffic of ~1M MAU)
 * 📚:   Huge interest in Sports (Football ⚽, F1 🏎️) and Investments (Stocks 💸)
-* 💻:  3 years of Software Development 💻 + Product Management 💼 experience
+* 💻:  7 years of Software Development 💻 + Product Management 💼 experience
 * ✍🏻:   You can find more details of my work and interests on my personal website [Personal Website](https://www.jwiryo.com/)
 
 ##### Podcast:
